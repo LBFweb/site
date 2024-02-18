@@ -480,3 +480,9 @@ footer .line-footer p a{
     }
 }
 
+/* Página de obrigado do formulário */
+ .obrigado {
+    color:#fff;
+    text-align: center;
+    font-size: 28px;
+ }
